@@ -1,6 +1,6 @@
 # DDOmics Lab Website
 
-Multipage research lab website for the DDOmics Lab, National Centre for Cell Science (NCCS), Pune.
+This is the Multipage research lab website for the DDOmics Lab, National Centre for Cell Science (NCCS), Pune.
 
 ## Development
 
@@ -8,8 +8,11 @@ You need Node.js and npm.
 
 ```sh
 git clone <this-repository-url>
+
 cd <repository-name>
+
 npm install
+
 npm run dev
 ```
 
